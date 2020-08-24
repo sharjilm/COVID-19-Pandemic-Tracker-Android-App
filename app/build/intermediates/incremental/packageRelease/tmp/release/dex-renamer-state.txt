@@ -1,0 +1,4 @@
+#Sun Aug 16 15:21:05 EDT 2020
+base.0=C\:\\Users\\Sharjil\\AndroidStudioProjects\\COVID19Tracker\\app\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

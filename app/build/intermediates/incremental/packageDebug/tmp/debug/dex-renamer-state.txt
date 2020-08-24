@@ -1,7 +1,4 @@
-#Tue Jul 07 23:21:45 EDT 2020
-base.0=C\:\\Users\\Sharjil\\AndroidStudioProjects\\COVID19Tracker\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
-path.1=classes.dex
-renamed.1=classes2.dex
+#Fri Aug 21 11:34:17 EDT 2020
+base.0=C\:\\Users\\Sharjil\\AndroidStudioProjects\\COVID19Tracker\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=C\:\\Users\\Sharjil\\AndroidStudioProjects\\COVID19Tracker\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
