@@ -721,10 +721,8 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
-drawable edittext_shadow
 drawable ic_launcher_background
 drawable ic_launcher_foreground
-drawable ic_search_black_24dp
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -826,13 +824,11 @@ id dimensions
 id direct
 id disableHome
 id edit_query
-id edtSearch
 id end
 id expand_activities_button
 id expanded_menu
 id fast
 id forever
-id glide_custom_view_target_tag
 id gone
 id group_divider
 id groups
@@ -842,7 +838,6 @@ id icon
 id icon_group
 id ifRoom
 id image
-id imageFlag
 id info
 id invisible
 id italic
@@ -850,7 +845,6 @@ id left
 id line1
 id line3
 id listMode
-id listView
 id list_item
 id loader
 id loadertext
@@ -932,8 +926,6 @@ id topPanel
 id tvActive
 id tvAffectedCountries
 id tvCases
-id tvCountry
-id tvCountryName
 id tvCritical
 id tvRecovered
 id tvTodayCases
@@ -987,11 +979,8 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
-layout activity_affected_countries
-layout activity_detail
 layout activity_main
 layout custom_dialog
-layout list_custom_item
 layout loader_layout
 layout notification_action
 layout notification_action_tombstone
